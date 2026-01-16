@@ -1,0 +1,7 @@
+{
+  "name": "SnapMind",
+  "description": "SnapMind is an AI-native screenshot knowledge manager that turns fragmented images into a structured, searchable local brain. Featuring on-device semantic search, AI summaries, and memory activation cards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
